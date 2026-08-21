@@ -1,57 +1,86 @@
 <!-- ══════════════════ ⚓ VIBOL'S ONE PIECE PROFILE ══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Vibol%20%E2%9A%93&fontSize=72&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=12,24,30&desc=%E2%88%99%20Setting%20Sail%20Across%20The%20Grand%20Line%20of%20Code%20%E2%88%99&descSize=17&descAlignY=66&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Vibol%20%E2%9A%93&fontSize=75&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=12,24,30&desc=%E2%88%99%20Setting%20Sail%20Across%20The%20Grand%20Line%20of%20Code%20%E2%88%99&descSize=18&descAlignY=68&descAlign=50" width="100%" />
 
 <div align="center">
-  <img src="https://media.tenor.com/-Q8f5pk5trAAAAAM/luffy.gif" width="300" alt="Luffy waving hello" />
+  <img src="https://media.tenor.com/-Q8f5pk5trAAAAAM/luffy.gif" width="280" alt="Luffy waving hello" />
+</div>
+
+<div align="center">
+
+  <!-- Bounty poster style badge -->
+  <img src="https://img.shields.io/badge/WANTED-Vibol-FF4D5A?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/BOUNTY-300%2C000%2C000%20commits-FFC300?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/CREW-Straw%20Hat%20Devs-0D1117?style=for-the-badge&labelColor=1a1a1a" />
+
 </div>
 
 ---
 
-## ⛵ Ahoy, Traveler!
+### ⛵ Ahoy, Traveler!
 
-<div align="center">
+Hey there! I'm **Vibol** — a code pirate sailing the Grand Line of software 🏴‍☠️
+I build things with **Python**, **C++** and **JavaScript**, and every day is a new episode of my dev training arc.
 
-Hey there! I'm **Vibol** — a code pirate sailing the Grand Line of software 🏴‍☠️<br/>
-I build things with **Python**, **C++** and **JavaScript**, and every day is a new episode of my dev training arc.<br/>
-<i>"My treasure? It's buried somewhere in the commit history."</i>
+> _"My treasure? It's buried somewhere in the commit history."_
 
-</div>
+<br/>
 
----
-
-## 📜 About Me
+## 📜 Bounty Poster
 
 ```yaml
 name: Vibol
 role: Aspiring Pirate King of Code
 devil_fruit: Gomu Gomu no Git-Push 🤜💥
 current_arc: Training Arc (never ends)
-bounty: 300,000,000 ☕ commits
+crew_position: Full-Stack Navigator
+weapon_of_choice: Ctrl+C / Ctrl+V (used responsibly, mostly)
 dream: Find the One Piece (and ship it to production)
+status: 🟢 Online — probably debugging at 2am
 ```
-
-> _"Just a dev leveling up their skills like an anime protagonist — grinding XP one bug at a time!"_
-
----
-
-## ⚔️ My Arsenal (Tech Stack)
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br/>
 
+## ⚔️ My Arsenal
+
+<div align="center">
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,linux,vscode,docker&theme=dark" />
 </a>
 
 </div>
 
----
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <b>Python</b><br/>
+      <img src="https://progress-bar.xyz/85/?title=&width=140&color=FFC300&suffix=%25" />
+    </td>
+    <td align="center" width="200">
+      <b>C++</b><br/>
+      <img src="https://progress-bar.xyz/70/?title=&width=140&color=FF4D5A&suffix=%25" />
+    </td>
+    <td align="center" width="200">
+      <b>JavaScript</b><br/>
+      <img src="https://progress-bar.xyz/75/?title=&width=140&color=00ADB5&suffix=%25" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🏝️ Current Arc
+
+- 🔭 Working on: *your current project here*
+- 🌱 Training with: *new skill/framework you're learning*
+- 👀 Looking to team up on: open source, hackathons, side quests
+- 💬 Ask me about: Python, C++, JavaScript, or the best anime openings
+- ⚡ Fun fact: I debug like Zoro navigates — confidently, in the wrong direction, but I get there eventually
+
+<br/>
 
 ## 📊 Battle Stats
 
@@ -60,13 +89,20 @@ dream: Find the One Piece (and ship it to production)
   <img height="165" src="https://streak-stats.demolab.com?user=vibol18&hide_border=true&background=0D1117&stroke=FF4D5A&ring=FFC300&fire=FF4D5A&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=FFC300&sideLabels=AAB8C2&dates=8B949E" alt="GitHub streak" />
 </div>
 
-### 🗣️ Languages I Speak (Human & Programming)
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibol18&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4D5A&text_color=E6EDF3&langs_count=8" height="165" alt="Top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vibol18&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" height="165" alt="Trophies" />
 </div>
 
----
+<br/>
+
+## 🐍 Contribution Log Pose
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+</div>
+
+<br/>
 
 ## 💬 Words of the Pirate King
 
@@ -103,7 +139,7 @@ dream: Find the One Piece (and ship it to production)
 
 <br/>
 
-<img src="https://media.tenor.com/-u7ZED9-uPQAAAAM/luffy-one-piece.gif" width="320" alt="Gear 5 Luffy" />
+<img src="https://media.tenor.com/-u7ZED9-uPQAAAAM/luffy-one-piece.gif" width="300" alt="Gear 5 Luffy" />
 
 <br/><br/>
 
