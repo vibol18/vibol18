@@ -67,6 +67,11 @@ status: 🟢 Online — probably debugging at 2am
       <b>JavaScript</b><br/>
       <img src="https://progress-bar.xyz/75/?title=&width=140&color=00ADB5&suffix=%25" />
     </td>
+    <td>
+      <b>React js</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail">
+    </td>
+
   </tr>
 </table>
 
