@@ -1,9 +1,7 @@
 <!-- ══════════════════ ⚓ VIBOL'S ONE PIECE PROFILE ══════════════════ -->
 
-<img src="https://scontent.fpnh8-3.fna.fbcdn.net/v/t39.30808-1/784734944_1087608940884840_1185224429378367084_n.jpg?stp=dst-jpg_tt6&cstp=mx960x958&ctp=s200x200&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGfd7KVGw9aH3Xe7mGP03Rb4FQ0GCXKJoHgVDQYJcomgdgQ1Sgaz9w4qMuOhFUWdu2cIdbXp8ddXOc_9PZxgynO&_nc_ohc=jiyszeZyPIMQ7kNvwH9C91N&_nc_oc=Adosy0wdcr3Qoj7UoMgVBMCljkzqa6-gMRIysd7EiCweqaVaqIUuuUh_bCiHcr3kFKM&_nc_zt=24&_nc_ht=scontent.fpnh8-3.fna&_nc_gid=7DpTKj2gxnWEGqjbFnnjqg&_nc_ss=7b2a8&oh=00_AQPforzazY-rSatTItOyd55K5th-aEI6y7R3PwqBrLY2rg&oe=6AC5778C" width="50%" />
-
 <div align="center">
-  <img src="https://media.tenor.com/-Q8f5pk5trAAAAAM/luffy.gif" width="280" alt="Luffy waving hello" />
+  <img src="https://scontent.fpnh8-3.fna.fbcdn.net/v/t39.30808-1/784734944_1087608940884840_1185224429378367084_n.jpg?stp=dst-jpg_tt6&cstp=mx960x958&ctp=s200x200&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGfd7KVGw9aH3Xe7mGP03Rb4FQ0GCXKJoHgVDQYJcomgdgQ1Sgaz9w4qMuOhFUWdu2cIdbXp8ddXOc_9PZxgynO&_nc_ohc=jiyszeZyPIMQ7kNvwH9C91N&_nc_oc=Adosy0wdcr3Qoj7UoMgVBMCljkzqa6-gMRIysd7EiCweqaVaqIUuuUh_bCiHcr3kFKM&_nc_zt=24&_nc_ht=scontent.fpnh8-3.fna&_nc_gid=7DpTKj2gxnWEGqjbFnnjqg&_nc_ss=7b2a8&oh=00_AQPforzazY-rSatTItOyd55K5th-aEI6y7R3PwqBrLY2rg&oe=6AC5778C" width="280" alt="Luffy waving hello" />
 </div>
 
 <div align="center">
